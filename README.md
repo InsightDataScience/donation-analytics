@@ -368,7 +368,7 @@ In order to be tested correctly, you must use the format described above. You ca
 No, for simplicity you may assume that all of the files in the input directory are text files, with the format as described above.
 
 ### Can I use an IDE like Eclipse or IntelliJ to write my program?
-Yes, you can use whatever tools you want - as long as your `run.sh` script correctly runs the relevant target files and creates the `percentile_by_zip_and_year.txt` file in the `output` directory.
+Yes, you can use whatever tools you want - as long as your `run.sh` script correctly runs the relevant target files and creates the `repeat_donors.txt` file in the `output` directory.
 
 ### What should be in the input directory?
 You can put any text file you want in the directory since our testing suite will replace it. Indeed, using your own input files would be quite useful for testing. The file size limit on Github is 100 MB so you won't be able to include the larger sample input files in your `input` directory.
