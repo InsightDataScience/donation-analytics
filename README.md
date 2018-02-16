@@ -8,8 +8,8 @@ Instructions for the coding challenge are available here: https://github.com/Ins
 
 The following packages are required to run my program, which I wrote in Python:
 
-pandas  
-numpy
+import pandas as pd
+import numpy as np
 
 **Columns:**
 
