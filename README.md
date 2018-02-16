@@ -6,7 +6,7 @@ Instructions for the coding challenge are available here: https://github.com/Ins
 
 **Required packages:**
 
-The following packages are required to run my program:
+The following packages are required to run my program, which I wrote in Python:
 
 pandas  
 numpy
